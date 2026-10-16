@@ -67,3 +67,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Pengujian:
+# Luas persegi panjang: 8 x 5 = 40
+# Luas segitiga: 0.5 x 10 x 6 = 30
+# Jumlah bilangan 1 sampai 10 = 55
+# Faktorial 5 = 120
+# Faktorial 0 = 1
