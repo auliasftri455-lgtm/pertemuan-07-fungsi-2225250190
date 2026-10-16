@@ -31,3 +31,6 @@ Mempelajari penggunaan fungsi, parameter, return value, dan scope dalam Python.
 
 ## Kesimpulan
 Fungsi dalam Python membantu membuat program lebih terstruktur, mudah dibaca, dan dapat digunakan kembali.
+
+## Refleksi
+Saya belajar menggunakan fungsi, parameter, return value, dan scope dalam Python. Saya juga belajar menguji program dan mengunggah tugas ke GitHub.
