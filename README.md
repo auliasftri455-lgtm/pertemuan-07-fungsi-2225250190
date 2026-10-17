@@ -34,3 +34,35 @@ Fungsi dalam Python membantu membuat program lebih terstruktur, mudah dibaca, da
 
 ## Refleksi
 Saya belajar menggunakan fungsi, parameter, return value, dan scope dalam Python. Saya juga belajar menguji program dan mengunggah tugas ke GitHub.
+
+## Kuis Formatif Pertemuan 7
+
+### 1. Apa fungsi kata kunci def dalam Python?
+Kata kunci `def` digunakan untuk mendefinisikan atau membuat fungsi dalam Python. Fungsi membantu membagi program menjadi bagian-bagian kecil yang dapat digunakan kembali.
+
+### 2. Apa perbedaan parameter dan argumen?
+Parameter adalah variabel yang ditulis pada definisi fungsi untuk menerima data. Argumen adalah nilai yang diberikan ketika fungsi dipanggil.
+
+### 3. Kapan return lebih tepat daripada print?
+`return` lebih tepat digunakan ketika hasil fungsi perlu disimpan atau digunakan kembali dalam perhitungan lain. Sementara itu, `print` digunakan untuk menampilkan informasi ke layar.
+
+### 4. Apa nilai variabel x pada kode x = kuadrat(4) jika kuadrat mengembalikan x*x?
+Nilai variabel `x` adalah 16 karena fungsi menghitung 4 × 4 dan mengembalikan hasilnya.
+
+### 5. Mengapa variabel lokal sebaiknya tidak bergantung pada perubahan dari luar fungsi?
+Variabel lokal membantu menjaga proses di dalam fungsi agar lebih terstruktur dan mengurangi risiko perubahan nilai yang tidak diinginkan. Hal ini juga membuat fungsi lebih mudah diuji dan diperbaiki.
+
+### 6. Apa yang terjadi jika fungsi memerlukan dua parameter tetapi hanya diberi satu argumen?
+Python akan menghasilkan kesalahan `TypeError` karena jumlah argumen yang diberikan tidak sesuai dengan jumlah parameter yang diwajibkan.
+
+### 7. Bagaimana cara memakai nilai return dalam perhitungan lain?
+Nilai `return` dapat disimpan dalam variabel atau langsung digunakan dalam ekspresi dan perhitungan lain.
+
+### 8. Apa perbedaan Step Into dan Step Over saat debugging fungsi di VS Code?
+Step Into digunakan untuk masuk ke dalam fungsi yang dipanggil dan menelusuri perintah di dalamnya. Step Over digunakan untuk menjalankan satu baris kode tanpa masuk ke dalam fungsi yang dipanggil pada baris tersebut.
+
+### 9. Mengapa modularisasi membantu pengujian program?
+Modularisasi membantu pengujian karena program dibagi menjadi fungsi-fungsi kecil dengan tugas yang jelas. Setiap fungsi dapat diuji secara terpisah sehingga kesalahan lebih mudah ditemukan dan diperbaiki.
+
+### 10. Perintah Git apa yang mengirim commit lokal ke GitHub setelah remote sudah terhubung?
+Perintah yang digunakan adalah `git push`. Perintah tersebut mengirim commit lokal ke repositori GitHub yang sudah terhubung melalui remote.
